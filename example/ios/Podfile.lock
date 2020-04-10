@@ -1,0 +1,22 @@
+PODS:
+  - ble_peripheral (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - ble_peripheral (from `.symlinks/plugins/ble_peripheral/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  ble_peripheral:
+    :path: ".symlinks/plugins/ble_peripheral/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  ble_peripheral: 6e4d12df9411bfaf9f1009dd6c8af1128892771c
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
+
+COCOAPODS: 1.9.1
